@@ -42,6 +42,7 @@ Please do not suggest to add domains from the stoplist. They're banned for the r
 * maricopa.edu - anyone could register e-mail account there
 * cet.edu - this one's best. It could forward e-mails to your gmail.com even without registration. Cool.
 * australia.edu - anyone could register e-mail account there
+* liberty.edu - prior abuse
 
 We intentionally exclude alumni domains (like john.smith@alumni.stanford.edu) as well.
 

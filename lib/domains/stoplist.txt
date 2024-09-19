@@ -461,3 +461,5 @@ jpu.edu.jo
 mokwon.ac.kr
 stu.bayburt.edu.tr
 alumni.rice.edu
+cet.edu
+innopolis.university
